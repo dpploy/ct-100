@@ -1,4 +1,4 @@
-# CT-100 Introduction to Computational Nuclear Chemical Engineering
+# CT-100 Basic Computer Programming in Nuclear Chemical Engineering
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/ct-300/tree/master/notebooks)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-100/master)
