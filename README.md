@@ -1,6 +1,6 @@
 # CT-100 Introduction to Computational Nuclear Chemical Engineering
 
-[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/ct-100/tree/master/notebooks)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/ct-300/tree/master/notebooks)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-100/master)
 [![Website](https://img.shields.io/website/https/github.com/dpploy/ct-100?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)](https://github.com/dpploy/ct-100)
 [![Home](https://img.shields.io/github/repo-size/dpploy/ct-100)](https://github.com/dpploy/ct-100)
