@@ -7,6 +7,8 @@
 
    + [Cortix Tech](https://cortix.tech/), Training & Certification
 
+![](notebooks/images/therm-cond-p4.png)
+
 The goal of this course is to present professionals of (nuclear) chemical engineering an interconnected set of concepts and their corresponding computational methods needed in the core undergraduate chemical engineering curriculum. In particular, concepts central to problem solving in the core areas of chemical reactor engineering and separations with applications in nuclear, biochemical, and materials engineering.
 
 Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email to the faculty listed above.
