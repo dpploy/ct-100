@@ -9,7 +9,7 @@
 
 ![](notebooks/images/therm-cond-p4.png)
 
-The goal of this course is to present professionals of (nuclear) chemical engineering an interconnected set of concepts and their corresponding computational methods needed in the core undergraduate chemical engineering curriculum. In particular, concepts central to problem solving in the core areas of chemical reactor engineering and separations with applications in nuclear, biochemical, and materials engineering.
+The goal of this course is to present professionals of (nuclear) chemical engineering basic concepts of computer programming at the undergraduate level. In particular, elements that enable problem solving in the core areas of the curriculum.
 
 Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email to the faculty listed above.
 
@@ -24,6 +24,8 @@ Python (Anaconda) programming environment for you. However once it is done, it w
 start a Jupyter Notebook server on your web browser with all notebooks listed. Upon
 clicking on individual notebook files, you will access the live course notebooks.
 + Use the green `download` button above on the right upper side of the page and download a ZIP archive to your local machine. Unzip the archive. Then use your own Jupyter Notebook server to navigate to the directory created by the unzip operation and upload the notebook files. In this case the files will not be updated and you will need to return to the repository for getting new files or updated versions of previously downloaded files.
+
+* Past versions of this course are available in this repository as [releases](https://github.com/dpploy/ct-100/releases) including labwork and exams.*
 
 > *Later in the curriculum, students will take the required course [CT-300](https://github.com/dpploy/CT-300) 
 > which expands the content of the present course. Students will profit from looking ahead and comparing notes between 
