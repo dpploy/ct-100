@@ -6,6 +6,7 @@
 [![Home](https://img.shields.io/github/repo-size/dpploy/ct-100)](https://github.com/dpploy/ct-100)
 
    + [Cortix Tech](https://cortix.tech/), Training & Certification
+   + Licensed under the Cortix Tech Courseware & Sample Code License (CT-CSL) v1.0 — see LICENSE.
 
 ![](notebooks/images/therm-cond-p4.png)
 

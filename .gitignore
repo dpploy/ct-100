@@ -1,4 +1,5 @@
 # local
+.venv/
 *.svg
 .DS_Store
 *~
