@@ -3,9 +3,7 @@ name = "jupynb-repo"
 version = "0.1.0"
 description = "GitHub repo part of the CT-100 course in Cortix Tech"
 readme = "README.md"
-authors = [
-    { name = "Valmor F. de Almeida", email = "dealmeidavf@cortix.tech" }
-]
+authors = [{ name = "Valmor F. de Almeida", email = "dealmeidavf@cortix.tech" }]
 license = { file = "LICENSE" }
 requires-python = ">=3.13"
 dependencies = [
@@ -14,7 +12,12 @@ dependencies = [
 ]
 
 [dependency-groups]
+# uv sync installs "dev" by default, so put student-facing tooling here.
 dev = [
     "ipykernel>=7.1.0",
     "notebook>=7.5.3",
 ]
+
+[tool.uv]
+# Make it explicit this repo is not an installable package.
+package = false

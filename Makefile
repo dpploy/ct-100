@@ -1,4 +1,5 @@
 # Makefile for a uv-managed Jupyter notebook repo
+# Valmor F. de Almeida Cortix Tech
 #
 # Usage:
 #   make help
@@ -20,7 +21,7 @@ SHELL := /bin/bash
 NOTEBOOK_DIR ?= notebooks
 
 # Kernel name as it appears in `jupyter kernelspec list`
-KERNEL_NAME ?= repo-notebooks
+KERNEL_NAME ?= ct-100-jupynb-repo
 DISPLAY_NAME ?= Python ($(KERNEL_NAME))
 
 # Jupyter command to launch (Notebook 7 UI)
