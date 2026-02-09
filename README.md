@@ -28,7 +28,7 @@ clicking on individual notebook files, you will access the live course notebooks
 
 * *Past versions of this course are available in this repository as [releases](https://github.com/dpploy/ct-100/releases) including labwork and exams.*
 
-> *Later in the curriculum, students will take the required course [CT-300](https://github.com/dpploy/CT-300) 
+> *Later in the curriculum, students will take the required course [CT-300](https://github.com/dpploy/ct-300) 
 > which expands the content of the present course. Students will profit from looking ahead and comparing notes between 
 > the two courses.*
 
@@ -42,4 +42,4 @@ Dr. Valmor F. de Almeida, [Cortix Tech](https://cortix.tech)
    + `uv run jupyter notebook`
 
 ## History
-This training material was developed and used by Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical engineering at UMass Lowell USA. This is now offered as training and certification at [Cortix Tech](https://cortix.tech).
+This training material was developed and used as catalog course ChEn-1070 (Spring and Fall 2019) by Dr. Valmor F. de Almeida while teaching as an associate professor of nuclear chemical engineering at UMass Lowell USA. This is now offered as training and certification at [Cortix Tech](https://cortix.tech).
