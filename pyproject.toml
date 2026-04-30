@@ -15,7 +15,7 @@ dependencies = [
 # uv sync installs "dev" by default, so put student-facing tooling here.
 dev = [
     "ipykernel>=7.1.0",
-    "notebook>=7.5.3",
+    "notebook>=7.5.6",
 ]
 
 [tool.uv]
